@@ -1,23 +1,14 @@
 # -*- coding: utf-8 -*-
 
 user_agents = [
-	'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
-	# 'Googlebot/2.1 (+http://www.google.com/bot.html)',
-	'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko)'
-	' Ubuntu Chromium/49.0.2623.108 Chrome/49.0.2623.108 Safari/537.36',
-	# 'Gigabot/3.0 (http://www.gigablast.com/spider.html)',
-	'Mozilla/5.0 (Windows; U; Windows NT 5.1; pt-BR) AppleWebKit/533.3 '
-	'(KHTML, like Gecko)  QtWeb Internet Browser/3.7 http://www.QtWeb.net',
-	'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) '
-	'Chrome/41.0.2228.0 Safari/537.36',
-	'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/532.2 (KHTML, '
-	'like Gecko) ChromePlus/4.0.222.3 Chrome/4.0.222.3 Safari/532.2',
-	'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.4pre) '
-	'Gecko/20070404 K-Ninja/2.1.3',
-	'Mozilla/5.0 (Future Star Technologies Corp.; Star-Blade OS; x86_64; U; '
-	'en-US) iNet Browser 4.7',
-	'Mozilla/5.0 (Windows; U; Windows NT 6.1; rv:2.2) Gecko/20110201',
-	'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.13) '
-	'Gecko/20080414 Firefox/2.0.0.13 Pogo/2.0.0.13.6866',
-	# 'WorldWideweb (NEXT)'
+	'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36',
+	'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36',
+	'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Safari/537.36',
+	'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)',
+	'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)',
+	'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+	'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36'
+	' Edge/17.17134',
+	'Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko',
+	'Mozilla/5.0 (Windows NT 5.1; rv:7.0.1) Gecko/20100101 Firefox/7.0.1'
 ]
